@@ -1,5 +1,4 @@
 // 체육복
-
 function solution(n, lost, reserve) {
   let answer = n - lost.length; // 체육수업을 들을 수 있는 학생 수
 
