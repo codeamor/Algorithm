@@ -1,3 +1,7 @@
+// [카카오 인턴] 키패드 누르기
+// 결국 못 품, 수정 예정
+// 함수형으로도 리팩토링 해보기
+
 function solution(numbers, hand) {
   let result = [];
   let leftPos = '*';
