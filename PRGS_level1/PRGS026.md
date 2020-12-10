@@ -2,6 +2,10 @@
 
 ![image](https://user-images.githubusercontent.com/65898889/101800443-a1a06d00-3b50-11eb-8a0e-12ccc50fa3ca.png)
 
+<br>
+
+> 풀이
+
 ```js
 function solution(board, moves) {
     let basket = [];
@@ -70,8 +74,9 @@ const solution = (board, moves) => {
 
 <br>
 
-![image](https://user-images.githubusercontent.com/65898889/101800742-f2b06100-3b50-11eb-9f7f-45679d8c78e0.png)
+![image](https://user-images.githubusercontent.com/65898889/101801251-7407f380-3b51-11eb-91b6-94e33a3429d4.png)
 
+<br>
 
 ## Reference
 
