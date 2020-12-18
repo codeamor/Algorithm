@@ -18,4 +18,4 @@ function solution(n, m) {
 
 ## Reference
 
-[LeetCode](https://programmers.co.kr/learn/courses/30/lessons/12940)
+[Programmers](https://programmers.co.kr/learn/courses/30/lessons/12940)
