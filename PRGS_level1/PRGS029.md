@@ -1,4 +1,4 @@
-# 이상한 숫자 만들기
+# 이상한 숫자 만들기.
 
 ```js
 function solution(s) {
